@@ -12,9 +12,9 @@
 - Usability - Make it easy to read.
 - Chewbacca - Images often have more persuasive appeal than words.
 ## Principles
-1. Contrast - Favor strong color and size contrast over weak contrast. Slight contrasts create mental fuzz in the reader.
-2. Size - Make headers and body text consistent with one another.
-3.
-4.
-5.
+- Contrast - Favor strong color and size contrast over weak contrast. Slight contrasts create mental fuzz in the reader.
+- Size - Make headers and body text consistent with one another.
+- Proximity - Distance can serve as a type of border.
+- Alignment - When in doubt, opt for left alignment.
+- Elimination -
 ## Practice

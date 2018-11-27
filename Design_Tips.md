@@ -16,5 +16,5 @@
 - Size - Make headers and body text consistent with one another.
 - Proximity - Distance can serve as a type of border.
 - Alignment - When in doubt, opt for left alignment.
-- Elimination -
+- Elimination - Use size and proximity instead of dividing lines and borders.
 ## Practice

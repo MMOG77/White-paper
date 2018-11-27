@@ -1,3 +1,9 @@
 # Dr. Miller's Tips on Visual Communication
-
-- gg
+## Research
+- Visual communication = skill-centered + rhetorical
+- Needs to look professional, not necessarily pretty
+- Written and visual communication go hand-in-hand
+## Rhetoric
+-
+## Principles
+## Practice

@@ -18,5 +18,5 @@
 - Alignment - When in doubt, opt for left alignment.
 - Elimination - Use size and proximity instead of dividing lines and borders.
 ## Practice
-- **Support the meaning of the text.**
--**Eliminate mental clutter.**
+- **Support the meaning of the text with formatting.**
+- **Eliminate mental clutter.**

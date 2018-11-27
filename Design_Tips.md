@@ -5,10 +5,10 @@
 - Written and visual communication go hand-in-hand
 ## Rhetoric (Persuading People)
 - Branding - creating associations between symbols and your product/service
-1. Single font
-2. Single color
-3. Tagline / summary
-4. No templates
+> 1. Single font
+> 2. Single color
+> 3. Tagline / summary
+> 4. No templates
 - Usability - 
 - Chewbacca
 ## Principles

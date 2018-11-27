@@ -10,6 +10,11 @@
 > 3. Tagline / summary
 > 4. No templates (avoid pre-installed templates; try to find online templates)
 - Usability - Make it easy to read.
-- Chewbacca - Images have more persuasive appeal.
+- Chewbacca - Images often have more persuasive appeal than words.
 ## Principles
+1. Contrast - Favor strong color and size contrast over weak contrast. Slight contrasts create mental fuzz in the reader.
+2. Size - Make headers and body text consistent with one another.
+3.
+4.
+5.
 ## Practice

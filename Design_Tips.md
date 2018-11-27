@@ -8,8 +8,8 @@
 > 1. Single font
 > 2. Single color
 > 3. Tagline / summary
-> 4. No templates (avoid pre-installed templates)
-- Usability - 
-- Chewbacca
+> 4. No templates (avoid pre-installed templates; try to find online templates)
+- Usability - Make it easy to read.
+- Chewbacca - Images have more persuasive appeal.
 ## Principles
 ## Practice

@@ -8,7 +8,7 @@
 > 1. Single font
 > 2. Single color
 > 3. Tagline / summary
-> 4. No templates
+> 4. No templates (avoid pre-installed templates)
 - Usability - 
 - Chewbacca
 ## Principles

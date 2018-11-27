@@ -20,3 +20,6 @@
 ## Practice
 - **Support the meaning of the text with formatting.**
 - **Eliminate mental clutter.**
+
+
+[See Dr. Miller's slideshow :)](https://github.com/matthewjmiller/tech-writing/blob/master/visualcomm.pdf)

@@ -11,7 +11,7 @@
 - Paramedic Method
 - "It's not a quick process." ~~ Dr. Miller
 - Harris's 4 Pillars of Revision
-> 1.
-> 2.
-> 3.
-> 4.
+> 1. Coming to terms &mdash; becoming self-aware of what the project is; reverse outlining; creating an abstract
+> 2. Forwarding &mdash; building on the documents' strengths; primacy-recency
+> 3. Countering &mdash; filling gaps
+> 4. Looking Ahead &mdash; concluding ideas; call to action

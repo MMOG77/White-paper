@@ -9,3 +9,4 @@
 > 2. Use peer review.
 > 3. Read it aloud.
 - Paramedic Method
+- "It's not a quick process." ~~ Dr. Miller

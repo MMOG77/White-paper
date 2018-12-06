@@ -14,4 +14,4 @@
 > 1. Coming to terms &mdash; becoming self-aware of what the project is; reverse outlining; creating an abstract
 > 2. Forwarding &mdash; building on the documents' strengths; primacy-recency
 > 3. Countering &mdash; filling gaps
-> 4. Looking Ahead &mdash; concluding ideas; call to action
+> 4. Looking Ahead &mdash; concluding ideas; call to action; Where do I (the author) go from here (this project)?

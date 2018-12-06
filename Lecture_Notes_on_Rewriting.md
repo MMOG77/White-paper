@@ -10,3 +10,8 @@
 > 3. Read it aloud.
 - Paramedic Method
 - "It's not a quick process." ~~ Dr. Miller
+- Harris's 4 Pillars of Revision
+> 1.
+> 2.
+> 3.
+> 4.
